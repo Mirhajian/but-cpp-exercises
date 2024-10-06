@@ -7,4 +7,4 @@ Chapters: (list will update until the end of this semester)
 - 2. Recursive Functions
 - 3. Call by value / reference
 
-The chapters here are only decided by the studets, they either didn't understad them quite well or they just don't remember.
+The chapters here were only decided by the students, they either didn't understood them quite well or they just don't remember.
