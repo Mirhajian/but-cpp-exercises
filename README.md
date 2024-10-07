@@ -25,4 +25,4 @@ Students and instructors are welcome to contribute to the repository. Feel free 
 
 ## License
 
-This repository is open-source and available under the MIT License. Feel free to use and modify the solutions for your learning and teaching needs.
+This repository is open-source and available under the AGPL-3.0 License. Feel free to use and modify the solutions for your learning and teaching needs.
